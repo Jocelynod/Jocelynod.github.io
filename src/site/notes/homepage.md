@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
-![mob.png](https://jocelyn-wang.oss-cn-shanghai.aliyuncs.com/mob.png)
+[[notes/publish/为什么它永无止境\|为什么它永无止境]]
